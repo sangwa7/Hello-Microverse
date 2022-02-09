@@ -1,20 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > Description the project.
 
+This is project is about displaying the word "Hello Microverse"
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
+
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+N/A
 
 ## Getting Started
 
@@ -24,27 +23,32 @@
 
 To get a local copy up and running follow these simple example steps.
 
+1. Clone the project via terminal or download the package.
+2. Open index.html file via browser
+
 ### Prerequisites
+1. Should have installed any web browser
 
 ### Setup
 
+N/A
+
 ### Install
+
+N/A
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
+1. Open index.html located at the route folder of the project
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sangwa7](https://github.com/sangwa7)
+- Twitter: [@twitterhandle](https://twitter.com/didiersangwa)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/didiersangwa)
 
 
 
